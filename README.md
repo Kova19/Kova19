@@ -2,7 +2,7 @@
 
 ### About Me
 
-Hey there! I'm Kova, a language enthusiast and lifelong learner. I enjoy exploring various topics, helping others, and engaging in meaningful conversations. My curiosity drives me to constantly seek new knowledge and challenges. In this GitHub repository, you'll find examples of my work and projects that reflect my passion for creativity and problem-solving.
+Hey there! I'm passionate about learning and development, constantly striving for excellence in my field. As a programmer, I immerse myself in code, creating innovative solutions for various technological challenges. With my skills as a web developer, I can bring my ideas to life in interactive and visually stunning online environments. With me on board, every project is poised to achieve new heights of success and creativity!
 
 ### Contact
 
