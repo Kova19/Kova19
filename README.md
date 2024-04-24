@@ -6,4 +6,7 @@ Hey there! I'm passionate about learning and development, constantly striving fo
 
 ### Contact
 
-Comming soon... 
+If you have any questions, suggestions, or just want to say hi, feel free to reach out to me:
+
+- **Email**: kova@kovacodes.tech
+- **Personal Website**: [Personal WebSite](https://kovacodes.tech)
